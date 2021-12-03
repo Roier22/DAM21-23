@@ -1,4 +1,5 @@
 # DAM21-22
 
-Nou repositori dam
-si soy
+Nou repositori DAM
+Nuevo repositorio DAM
+New repsoitory DAM
